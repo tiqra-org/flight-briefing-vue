@@ -1,0 +1,12 @@
+messageTypes: Typ správy
+messageTypesRequired: Zvoľte aspoň jeden typ správy
+airports: Letiská
+airportsHelpText: Môžete zadať viac kódov letísk odelených medzerou
+countries: Krajiny
+countriesHelpText: Môžete zadať viac kódov krajín odelených medzerou
+airportsOrCountriesRequired: Musí byť zadaný aspoň jeden kód letiska (ICAO kód) alebo krajiny (WMO kód)
+createBriefing: Nový letový plán
+forExample: napr.
+noDataAvailable: Neboli nájdené žiadne údaje
+airportsPatternMismatch: Kód letiska musí obsahovať {0} znaky. Viac letísk môže byť oddelených medzerou
+countriesPatternMismatch: Kód krajiny musí obsahovať {0} znaky. Viac krajín môže byť oddelených medzerou
