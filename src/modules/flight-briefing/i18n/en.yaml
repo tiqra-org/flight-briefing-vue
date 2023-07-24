@@ -1,0 +1,12 @@
+messageTypes: Message types
+messageTypesRequired: At least one message type must be selected
+airports: Airports
+airportsHelpText: Multiple airport codes can by separated by space
+countries: Countries
+countriesHelpText: Multiple country codes can by separated by space
+airportsOrCountriesRequired: At least one airport (ICAO code) or country (WMO code) is required
+createBriefing: Create briefing
+forExample: e.g.
+noDataAvailable: No data available
+airportsPatternMismatch: Airport code should contain {0} characters. Multiple airport codes are separated by space
+countriesPatternMismatch: Country code should contain {0} characters. Multiple country codes are separated by space
